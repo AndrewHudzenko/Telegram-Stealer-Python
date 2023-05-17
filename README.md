@@ -34,6 +34,7 @@ This script is designed to retrieve Telegram Desktop access data by copying rele
 6. Download Telegram Portable
 
     Go to the folder with the downloaded Telegram Portable:
+    
     ![Example Image](instructions_images/image1.png)
 
     
